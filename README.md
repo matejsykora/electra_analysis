@@ -38,7 +38,9 @@ The necessary tools can be found in the [dataset_converter folder](https://githu
 In order to further analyse the datasets it was necessary to convert the .json files to a different filetype. Firstly, files were converted using modified version of a transformation function published by Xiaohui9607 (2020). This function converted files into .txt format. Secondly, .txt files were then converted to .csv, which allowed easier exploration and further analysis of results. 
  
  
+## 5. Proof of concept
 
+To demonstrate capabilities of ELECTRA-based QA system, proof of concept was created that can be found [here](https://github.com/rwimmer56/ELECTRA_Proof_Of_Concept). 
  
  
  
